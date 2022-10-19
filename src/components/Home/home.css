@@ -1,0 +1,39 @@
+/* .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+} */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.card {
+    display: flex;
+    justify-content: center;
+    /* align-items: center;  */
+    border: 1px solid gray;
+    width: 70vh;
+    height: 50vw;
+    background-color: rgb(156, 156, 193);
+
+}
+
+.search_wrapper {
+    /* display: flex;
+    justify-content: center; */
+    margin-left: 30px;
+    margin-top: 50px;
+
+
+
+}
+
+.search_wrapper input {
+    text-align: center;
+}
